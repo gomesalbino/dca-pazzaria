@@ -1,0 +1,31 @@
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    height: 100px;
+    background: linear-gradient(#041833, #154580);
+    width: 100%;
+    &__corpo{
+        display: flex;
+        width: 50px;
+        height: 50px;
+        margin: 30px;
+       
+    }
+    &__social{
+        display: flex;
+        color: #fff;
+        text-align: center;
+        justify-content: space-between;
+        margin: 20px;
+        margin-right: 20px;
+        flex-wrap: wrap;
+        cursor: pointer;
+        &__img{
+            color: #fff;
+            
+        }
+    }
+}
+

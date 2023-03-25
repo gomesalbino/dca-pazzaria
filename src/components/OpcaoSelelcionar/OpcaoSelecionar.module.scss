@@ -1,0 +1,54 @@
+.selecioneOpcao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 250px;
+    background: transparent;
+    border-radius: 20px;
+    border: 3px solid #fff;
+    position: relative;
+    padding: 0 40px;
+    font-size: 1rem;
+    margin-left: 40%;
+    text-align: center;
+    color: #fff;
+    font-size: 19px;
+    cursor: pointer;
+    &--ativo{
+        background: #282b57;
+        color: #fff;
+    }
+
+    &__opcoes {
+        display: none;
+        position: absolute;
+        left: 0;
+        flex-direction: column;
+        top: 100%;
+        width: 100%;
+        justify-content: center;
+        &--ativo{
+            display: flex;
+        }
+    }
+    &__escolha{
+        align-items: center;
+        background: #fff;
+        border-top: 2px solid #282b57;
+        box-sizing: border-box;
+        color: #000;
+        display: flex;
+        height: 40px;
+        justify-content: center;
+        width: inherit;
+        font-size: 17px;
+        justify-content: center;
+        &:hover,
+        &--ativo{
+            background: #282b57;
+            cursor: pointer;
+            color: #fff;
+        }
+    }
+}

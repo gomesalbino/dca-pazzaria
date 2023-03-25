@@ -1,0 +1,32 @@
+
+
+.inputPesquisa{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    flex-wrap: wrap;
+    
+    input{
+        padding: 15px 180px;
+        border-radius: 20px;
+        border: 2px solid #fff;
+        background: transparent;
+        color: #fff;
+        flex-wrap: wrap;
+        
+    }
+    ::placeholder{
+        font-size: 18px;
+        color: #fff;
+        flex-wrap: wrap;
+       
+    }
+    .loopa{
+        display: flex;
+        position: absolute;
+        text-align: center;
+        justify-content: center;
+        margin: 11px;
+        margin-left: 300px;
+    }
+}

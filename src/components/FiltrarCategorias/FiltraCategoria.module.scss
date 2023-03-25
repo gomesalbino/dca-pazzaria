@@ -1,0 +1,30 @@
+
+.filtros{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 30px;
+    border: none;
+    flex-wrap: wrap;
+    &__botoa{
+        background: #444;
+        padding: 10px 20px;
+        color: #fff;
+        text-align: center;
+        margin-left: 15px;
+        cursor: pointer;
+        font-size: 17px;
+        font-weight: 300;
+        border-radius: 20px;
+        margin-bottom: 30px;
+        border: none;
+        flex-wrap: wrap;
+        &--ativo{
+            background: #530685;
+            color: #fff;
+        }
+    
+    }
+
+}
+

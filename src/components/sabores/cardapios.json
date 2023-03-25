@@ -1,0 +1,182 @@
+[
+    {
+        "nome": "Baiana",
+        "foto": "/assets/imagens/pratos/calabresa-palmito.jpg",
+        "descricoes": "Calabresa Moida, Ovos, Cebola e molho de Pimenta suave.",
+        "Grande": 49.00,
+        "Medio": 36.50,
+        "id": 1,
+        "categoria": {
+            "id": 1,
+            "grupo": "Calabresas"
+        }
+    },
+    {
+        "nome": "Calabresa",
+        "foto": "/assets/imagens/pratos/calabresa-queijo.jpg",
+        "descricoes": "Calabresa Fatiada coberta com Cebola e Ovos.",
+        "Grande": 45.50,
+        "Medio": 32.50,
+        "id": 2,
+        "categoria": {
+            "id": 1,
+            "grupo": "Calabresas"
+        }
+    },
+    {
+        "nome": "Catu-Baiana",
+        "foto": "/assets/imagens/pratos/catulabresa-mista.jpg",
+        "descricoes": "Calabresa Moida, Ovos, Cebola e molho de Pimenta suave cobertos com Catupiry Original.",
+        "Grande": 56.50,
+        "Medio": 41.50,
+        "id": 3,
+        "categoria": {
+            "id": 1,
+            "grupo": "Calabresas"
+        }
+    },
+    {
+        "nome": "Catulabresa-Mista",
+        "foto": "/assets/imagens/pratos/chocolate-morango.jpg",
+        "descricoes": "Calabresa Fatiada coberta com Catupiry Original.",
+        "Grande": 55.00,
+        "Medio": 40.50,
+        "id": 4,
+        "categoria": {
+            "id": 1,
+            "grupo": "Calabresas"
+        }
+    },
+    {
+        "nome": "Mineira",
+        "foto": "/assets/imagens/pratos/chocolate.jpg",
+        "descricoes": " Calabresa Fatiada coberta com Catupiry Original e Parmesão.",
+        "Grande": 56.00,
+        "Medio": 41.50,
+        "id": 5,
+        "categoria": {
+            "id": 1,
+            "grupo": "Calabresas"
+        }
+    },
+    {
+        "nome": "Polonesa",
+        "foto": "/assets/imagens/pratos/nutella.jpg",
+        "descricoes": "Provolone Ralado Ralado r Fatias de Calabresa.",
+        "Grande": 55.00,
+        "Medio": 40.50,
+        "id": 6,
+        "categoria": {
+            "id": 2,
+            "grupo": "Mussarelas"
+        }
+    },
+    {
+        "nome": "Toscava",
+        "foto": "/assets/imagens/pratos/pizza-portuguesa.jpg",
+        "descricoes": "Calabresa Moida, rodelas de Palmito cobertos com Mussarela gratinada.",
+        "Grande": 55.00,
+        "Medio": 40.50,
+        "id": 7,
+        "categoria": {
+            "id": 2,
+            "grupo": "Mussarelas"
+        }
+    },
+    {
+        "nome": "Tripoli",
+        "foto": "/assets/imagens/pratos/pizza-queijo.jpg",
+        "descricoes": "Calabresa Fatiada e Cebola cobertos com Mussarela gratinada com Ovos.",
+        "Grande": 52.50,
+        "Medio": 39.50,
+        "id": 8,
+        "categoria": {
+            "id": 2,
+            "grupo": "Mussarelas"
+        }
+    },
+    {
+        "nome": "Chocolate",
+        "foto": "/assets/imagens/pratos/portuguesa.jpg",
+        "descricoes": "Chocolate em barra derretido finalizado com Leite Condesado.",
+        "Grande": 46.50,
+        "Medio": 34.50,
+        "id": 9,
+        "categoria": {
+            "id": 3,
+            "grupo": "Chocolates"
+        }
+    },
+    {
+        "nome": "Choconana",
+        "foto": "/assets/imagens/pratos/queijo-tomate.jpg",
+        "descricoes": "Chocolate em barra derretido finalizado com Banana fatiada e Leite Condesado.",
+        "Grande": 49.50,
+        "Medio": 36.50,
+        "id": 10,
+        "categoria": {
+            "id": 3,
+            "grupo": "Chocolates"
+        }
+    },
+    {
+        "nome": "Nutella",
+        "foto": "/assets/imagens/pratos/queijo.jpg",
+        "descricoes": "Nutella original finalizada com fatias de Morango.",
+        "Grande": 55.50,
+        "Medio": 42.50,
+        "id": 11,
+        "categoria": {
+            "id": 4,
+            "grupo": "Nutellas"
+        }
+    },
+    {
+        "nome": "Romeu e Julleta",
+        "foto": "/assets/imagens/pratos/sensasao.jpg",
+        "descricoes": "Catupiry Original gratinado e Goiabada.",
+        "Grande": 52.50,
+        "Medio": 39.00,
+        "id": 12,
+        "categoria": {
+            "id": 5,
+            "grupo": "Catupires"
+        }
+    },
+    {
+        "nome": "Sensação",
+        "foto": "/assets/imagens/pratos/chocolate.jpg",
+        "descricoes": "Chocolate em barra derretido finalizado com Morango e Leite Condesado.",
+        "Grande": 52.50,
+        "Medio": 39.50,
+        "id": 13,
+        "categoria": {
+            "id": 3,
+            "grupo": "Chocolates"
+        }
+    },
+    {
+        "nome": "Banana",
+        "foto": "assets/imagens/pratos/baiana.jpg",
+        "descricoes": "Banana fatiada, Açúcar cobertos com Catupiry Original e finalizados com Canela.",
+        "Grande": 5350,
+        "Medio": 39.50,
+        "id": 14,
+        "categoria": {
+            "id": 6,
+            "grupo": "Bananas"
+        }
+    },
+    {
+        "nome": "Bananinha",
+        "foto": "/assets/imagens/pratos/bananinha.jpg",
+        "descricoes": "Banana fatiada finalizada com Canela e Leite Condensado.",
+        "Grande": 44.50,
+        "Medio": 32.50,
+        "id": 15,
+        "categoria": {
+            "id": 6,
+            "grupo": "Bananas"
+        }
+    }
+]
