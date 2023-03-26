@@ -1,0 +1,39 @@
+
+    .centro{
+        display: flex;
+        justify-content: center;
+       flex-wrap: wrap;
+       margin: 120px;
+       
+    }
+    .botao{
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        margin: 20px;
+    }
+    .botaoVoltar{
+        display: flex;
+        text-align: center;
+        padding: 10px 40px;
+        background: #70707b;
+        color: #fff;
+        font-weight: 300;
+        font-size: 18px;
+        border: 2px solid #fff;
+        border-radius: 20px;
+        cursor: pointer;
+        margin-bottom: 20px;
+    }
+    .imagemNot{
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+        flex-wrap: wrap;
+        img{
+            width: 500px;
+            height: 500px;
+        }
+    }
+
+    
