@@ -3,7 +3,7 @@
 .inputPesquisa{
     display: flex;
     justify-content: center;
-    margin: 100px;
+    margin: 100px 120px;
     flex-wrap: wrap;
     
     input{
@@ -13,6 +13,7 @@
         background: transparent;
         color: #fff;
         flex-wrap: wrap;
+        margin: 0 120px;
         
     }
     ::placeholder{
